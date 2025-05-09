@@ -1,0 +1,24 @@
+{
+  "name": "sql-datbase-pa1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mourya-s89/sql-datbase-pa1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mourya-s89/sql-datbase-pa1/issues"
+  },
+  "homepage": "https://github.com/mourya-s89/sql-datbase-pa1#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.1"
+  }
+}
